@@ -3,7 +3,6 @@
 # Content
 
 
+#### ![image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 
-
-Created markdown content as instructed
